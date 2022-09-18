@@ -1,4 +1,4 @@
-# Seriously_Godnpm 
+# Seriously_God
 
 Initial Setup 
 1. npm (sudo apt install npm). You can check it's version with "npm -v".
@@ -9,5 +9,6 @@ Initial Setup
 Please set it to version v14.18.3 (nvm install v14.18.3) 
 
 5. sg-react-frontend contains the front end code using react
-6. to run the react component, run "npm run start" inside the sg-react-frontend folder
-7. localhost:3000 is used for front end
+6. If it's first time, run "npm install" to download the dependencies and generate the node_modules
+7. to run the react component, run "npm run start" inside the sg-react-frontend folder
+8. localhost:3000 is used for front end
